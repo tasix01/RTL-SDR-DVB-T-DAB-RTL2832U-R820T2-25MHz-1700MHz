@@ -1,0 +1,10 @@
+https://www.youtube.com/playlist?list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2.............................(SDR приемник из DVB тюнера, на основе чипов RTL2832U+R820T2)
+
+https://youtu.be/IGqXFhWQuXU.........................................................................(Установка программы HDSDR и драйверов zadig(ImaSoft))
+https://www.youtube.com/watch?v=fzzO6OyS3Wc..........................................................(Настройка программы HDSDR)
+https://www.youtube.com/watch?v=Wr2nioy-CYg..........................................................(SDR на DEFCON - Все ваши радиочастоты принадлежат мне. Часть 1)
+https://www.youtube.com/watch?v=TIEtLwlhGcc..........................................................(SDR на DefCon - Все ваши радиочастоты принадлежат мне. Часть 2)
+https://www.youtube.com/watch?v=xO2qf9-BDUQ&index=5&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2..........(WebSDR для новичков. Часть 1)
+https://www.youtube.com/watch?v=ygr1kLvlIUg&index=6&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2..........(WebSDR для новичков. Часть 2)
+https://www.youtube.com/watch?v=Qw7SHv1f6_I&index=7&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2..........(Обзор SDR приемника на RTL2832)
+https://www.youtube.com/watch?v=dbaYOJv9QF0&index=8&list=PLwTU6gw_4Qng-WrixH0iRPg7n1u-vp4e2..........(Радиосканер, SDR приемник из Китайского USB ТВ тюнера RTL2832U за 10$)
